@@ -1,7 +1,7 @@
 import sys
 import os
 
-from math import sqrt, hypot, sin, asin, degrees, tan, cos, atan, radians
+from math import sqrt, sin, hypot, asin, degrees, tan, radians   # "sqrt, sin, ..."  - new
 
 NEG_ANSWERS = ('n', 'no', 'н', 'нет')
 
